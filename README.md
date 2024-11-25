@@ -1,18 +1,19 @@
 # 2340ExtraCredit
 
 Project Overview
-Our project, WanderSync, is an itinerary app designed to simplify trip planning and management. It offers an array of features to enhance the user experience. For example, users can organize trips by inputting locations, destinations, and trip durations. Additionally, the app allows users to collaborate by inviting others to join trip planning. In shared groups, participants can contribute comments to streamline communication and coordination.
+WanderSync, is an itinerary app that helps simplify trip planning and management. The app allows users to collaborate by inviting others to join trip planning. In shared groups, participants can contribute comments to streamline communication and coordination.
 
 Reflections
-This course was an incredible learning experience for all of us. Personally, I gained a deeper understanding of the importance of communication in software engineering. Effective teamwork requires clear task allocation to avoid overlapping efforts. At times, we struggled with this, leading to two team members unintentionally working on the same task and causing merge conflicts.
+This course was an great learning experience for me and my team. Personally, I gained a better understanding of the importance of communication. Effective teamwork requires clear task allocation to avoid people working on the same thing. We struggled with this sometimes. Two team members unintentionally working on the same task and causing merge conflicts.
 
-Through this project, I also gained valuable technical skills. For instance, I became proficient in using Android Studio and learned about the concept of fragments, which greatly streamlined our UI design. Fragments allowed us to efficiently reuse a single Home Page across different sections, simplifying modifications.
+Through this project, I gained valuable technical skills. I became well versed in using Android Studio and learned about  fragments, which greatly helped with our UI design. Fragments allowed us to efficiently reuse a single Home Page across different sections, simplifying modifications.
 
-Another significant takeaway was working with Firebase, a tool I had not used before. Leveraging Realtime Database, we achieved seamless data synchronization, which played a pivotal role in enhancing our app. One of my key contributions was developing the sign-in feature using Firebase. Although it was initially challenging, Professor Roy's instructional videos were instrumental in helping me grasp the fundamentals.
+Another significant takeaway was working with Firebase, a tool I had not used that much before. Using Realtime Database, we achieved seamless data synchronization, which played a pivotal role in enhancing our app. One of my key contributions was helping in developing the the database using Firebase. The class really helped me grasp the fundamentals.
+
 
 Design & Architecture
 Architecture
-Our app architecture focused on creating a smooth and intuitive user experience:
+Our architecture focused on creating a smooth and intuitive user experience:
 
 Frontend: Built using Android Studio to provide a visually appealing and user-friendly interface.
 Backend: Powered by Firebase, enabling real-time data management and synchronization across devices. The Firebase Realtime Database served as the backbone for storing user information, managing reservations, and facilitating trip planning.
