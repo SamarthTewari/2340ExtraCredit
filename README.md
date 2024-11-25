@@ -1,5 +1,7 @@
 # 2340ExtraCredit
 
+Reference Images: https://imgur.com/a/MvX0rbO 
+
 Project Overview
 WanderSync, is an itinerary app that helps simplify trip planning and management. The app allows users to collaborate by inviting others to join trip planning. In shared groups, participants can contribute comments to streamline communication and coordination.
 
